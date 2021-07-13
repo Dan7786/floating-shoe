@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/floating-shoe/static/css/main.0d9502af.chunk.css",
+    "main.js": "/floating-shoe/static/js/main.b60203ca.chunk.js",
+    "main.js.map": "/floating-shoe/static/js/main.b60203ca.chunk.js.map",
+    "runtime-main.js": "/floating-shoe/static/js/runtime-main.57bbb506.js",
+    "runtime-main.js.map": "/floating-shoe/static/js/runtime-main.57bbb506.js.map",
+    "static/css/2.5ee98565.chunk.css": "/floating-shoe/static/css/2.5ee98565.chunk.css",
+    "static/js/2.b3971120.chunk.js": "/floating-shoe/static/js/2.b3971120.chunk.js",
+    "static/js/2.b3971120.chunk.js.map": "/floating-shoe/static/js/2.b3971120.chunk.js.map",
+    "index.html": "/floating-shoe/index.html",
+    "static/css/2.5ee98565.chunk.css.map": "/floating-shoe/static/css/2.5ee98565.chunk.css.map",
+    "static/css/main.0d9502af.chunk.css.map": "/floating-shoe/static/css/main.0d9502af.chunk.css.map",
+    "static/js/2.b3971120.chunk.js.LICENSE.txt": "/floating-shoe/static/js/2.b3971120.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57bbb506.js",
+    "static/css/2.5ee98565.chunk.css",
+    "static/js/2.b3971120.chunk.js",
+    "static/css/main.0d9502af.chunk.css",
+    "static/js/main.b60203ca.chunk.js"
+  ]
+}
